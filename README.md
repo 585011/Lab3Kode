@@ -1,2 +1,2 @@
-okok.cpp = før strømreduksjon \n
+okok.cpp = før strømreduksjon  
 main.cpp = etter reduksjon
