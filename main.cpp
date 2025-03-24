@@ -234,7 +234,7 @@ void temp(){
     Serial.println("}"); // Add a newline at the end
   }
 
-  // Enter low power mode for 5 minutes
+  // Enter low power mode for 10 minutes
   for (int i = 0; i < 600; i++) {
     //enterLowPowerMode();
     delay(1000);  // 1 second delay in sleep mode
